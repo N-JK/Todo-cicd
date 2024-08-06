@@ -16,7 +16,9 @@
    cd todo_list
 
 3) Install the required dependencies:
+
    pip install -r requirements.txt
 
-4) Run app
+5) Run app
+
    python manage.py runserver
