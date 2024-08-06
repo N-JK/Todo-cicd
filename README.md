@@ -9,14 +9,14 @@
 **Installation**
 1) Clone the repository:
 
-git clone https://github.com/N-JK/Todo-App.git
+   git clone https://github.com/N-JK/Todo-App.git
 
 2) Navigate to the project directory:
 
- cd todo_list
+   cd todo_list
 
 3) Install the required dependencies:
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 4) Run app
-python manage.py runserver
+   python manage.py runserver
