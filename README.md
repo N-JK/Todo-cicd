@@ -1,9 +1,10 @@
 **Features**
-Create Tasks: Easily add tasks with titles and descriptions along with created time,datestamp.
-Mark as Completed: Keep track of completed tasks.
-Search and Filter: Find tasks quickly with search and filter options.
-User Authentication: Securely sign up and log in to your account.
-Responsive Design: Use the app on desktop, tablet, or mobile devices.
+
+1. Create Tasks: Easily add tasks with titles and descriptions along with created time,datestamp.
+2. Mark as Completed: Keep track of completed tasks.
+3. Search and Filter: Find tasks quickly with search and filter options.
+4. User Authentication: Securely sign up and log in to your account.
+5. Responsive Design: Use the app on desktop, tablet, or mobile devices.
 
 **Installation**
 1) Clone the repository:
